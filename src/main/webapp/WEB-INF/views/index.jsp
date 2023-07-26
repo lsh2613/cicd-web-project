@@ -2,7 +2,6 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>이것은 자동으로 빌드된 파일입니다</h2>
     <h2>It's working on Tomcat server(9.0.65)</h2>
     <hr>
     <h1>${msg}</h1>
